@@ -5,14 +5,14 @@
 classification model:
 KNN/SVM/MobileViT-xs
 data augmentation methods:
-1. pixel classifier(KNN/SVM)
-Erasing
-Noise
-TSW
-DSM(proposed method)
+1. pixel classifier(KNN/SVM) 
+Erasing 
+Noise 
+TSW 
+DSM(proposed method) 
 
-2. image classifier(MobileViT-xs)
-Erasing
-Noise
-Rotation
-DSM(proposed method)
+2. image classifier(MobileViT-xs) 
+Erasing 
+Noise 
+Rotation 
+DSM(proposed method) 
